@@ -1,2 +1,3 @@
-# Recommendation_BERT
-Content Based Recommendation using BERT
+# Content Based Recommendation using BERT
+
+Dataset : IMDB top 1000 
